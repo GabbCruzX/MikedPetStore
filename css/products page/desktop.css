@@ -1,0 +1,20 @@
+@media screen and (width > 768px) {
+
+  .section-404 {
+   grid-template-columns: 2fr 3fr;
+   align-items: center;
+  }
+
+  .f404-title,
+  .f404-content h1,
+  .f404-description,
+  .section-button {
+    text-align: left !important;   
+  }
+
+  .f404-image {
+    grid-area: 1/2/2/3;
+  }
+
+   
+}

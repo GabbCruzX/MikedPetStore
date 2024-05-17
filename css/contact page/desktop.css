@@ -1,0 +1,35 @@
+@media screen and (width > 768px) {
+  .hero-section {
+    text-align: left;
+    justify-content: left;
+  }
+
+  .hero-titles {
+    text-align: left;
+    justify-content: left;
+    margin-left: 8rem;
+  }
+
+  .contact-forms-forms {
+    flex-direction: row;
+  }
+
+  .forms-container {
+    align-items: flex-start;
+  }
+
+  .forms-container p {
+    text-align: left;
+  }
+
+  .contact-details {
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+
+
+
+
+}

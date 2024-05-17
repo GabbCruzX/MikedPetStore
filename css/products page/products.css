@@ -1,0 +1,45 @@
+.section-404 img {
+  max-width: 700px;
+  margin-inline: auto;
+}
+
+.section-404 {
+  color: black;
+  display: grid;
+  gap: 1rem;
+  overflow: hidden;
+  align-items: center;
+  text-align: center;
+}
+
+
+
+.f404-content h1{
+  font-weight: 700;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.f404-description {
+  line-height: 150%;
+  text-align: center;
+}
+
+.f404-content {
+  display: grid;
+  gap: 1rem;
+  
+}
+
+.f404-title {
+  font-weight: 500;
+  font-size: 2rem;
+  text-align: center;
+}
+.section-button a{
+  color: white;
+}
+
+.section-button {
+  text-align: center;
+}
